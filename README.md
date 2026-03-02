@@ -1,4 +1,4 @@
-# 台北時間自然時鐘 (Taipei Time Natural Clock)
+# DRL Lesson 1 Demo 作業
 
 一個使用 HTML, CSS 與 JavaScript 打造的現代化網頁時鐘，專為展示台北時間而設計。此專案為深度強化學習課程 (DRL Lesson 1) 之網頁示範。
 
